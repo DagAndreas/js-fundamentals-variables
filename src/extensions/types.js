@@ -41,16 +41,16 @@ const imTrue = pick(9)
 const aReal = pick(4) // ?
 
 // 3. Pick a string
-const aString = pick(0)
+const aString = pick(6)
 
 // 4. Pick an array
 const anArray = pick(7)
 
 // 5. Pick a (simple) number
-const aNumber = pick(0)
+const aNumber = pick(3)
 
 // 6. Pick an object
-const anObject = pick(1)
+const anObject = pick(8)
 
 // 7. Pick false
 const imFalse = pick(10)
